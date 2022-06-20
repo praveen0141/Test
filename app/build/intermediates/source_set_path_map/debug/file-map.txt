@@ -1,0 +1,59 @@
+com.example.mysongdb.app-animation-1.1.1-0 /Users/praveen.kumar1/.gradle/caches/transforms-3/05bbc710f4dc829fc61bb3ee03faeec4/transformed/animation-1.1.1/res
+com.example.mysongdb.app-runtime-saveable-1.1.1-1 /Users/praveen.kumar1/.gradle/caches/transforms-3/0ae68792c3f8eb96a2c31adead452c7f/transformed/runtime-saveable-1.1.1/res
+com.example.mysongdb.app-sqlite-framework-2.2.0-alpha01-2 /Users/praveen.kumar1/.gradle/caches/transforms-3/0e9b527e78ebcb5e16d82f475fe092a0/transformed/sqlite-framework-2.2.0-alpha01/res
+com.example.mysongdb.app-activity-ktx-1.4.0-3 /Users/praveen.kumar1/.gradle/caches/transforms-3/2baa194eee3be62d20e957e0d24774c3/transformed/activity-ktx-1.4.0/res
+com.example.mysongdb.app-coordinatorlayout-1.1.0-4 /Users/praveen.kumar1/.gradle/caches/transforms-3/2c018bf31e35f0817b4fc30e24b8c059/transformed/coordinatorlayout-1.1.0/res
+com.example.mysongdb.app-ui-graphics-1.1.1-5 /Users/praveen.kumar1/.gradle/caches/transforms-3/3356492c7fdb643b36a2f4f19844b41a/transformed/ui-graphics-1.1.1/res
+com.example.mysongdb.app-material-1.0.1-6 /Users/praveen.kumar1/.gradle/caches/transforms-3/340b2f5be3e7b36b3d30b351b04bedd5/transformed/material-1.0.1/res
+com.example.mysongdb.app-core-ktx-1.7.0-7 /Users/praveen.kumar1/.gradle/caches/transforms-3/3ca8cae2cbb29f0bacb7254a83b8adfe/transformed/core-ktx-1.7.0/res
+com.example.mysongdb.app-material-icons-core-1.0.1-8 /Users/praveen.kumar1/.gradle/caches/transforms-3/46d873c338803fe150c262c582fb6d3e/transformed/material-icons-core-1.0.1/res
+com.example.mysongdb.app-emoji2-views-helper-1.0.0-9 /Users/praveen.kumar1/.gradle/caches/transforms-3/47f38a96f1d33571e7ce46d481177990/transformed/emoji2-views-helper-1.0.0/res
+com.example.mysongdb.app-room-runtime-2.4.0-alpha03-10 /Users/praveen.kumar1/.gradle/caches/transforms-3/4fd7f59fddd294bc82ebdbe4287338b0/transformed/room-runtime-2.4.0-alpha03/res
+com.example.mysongdb.app-ui-1.1.1-11 /Users/praveen.kumar1/.gradle/caches/transforms-3/5681727c659c79ea88fb8d786ff53372/transformed/ui-1.1.1/res
+com.example.mysongdb.app-startup-runtime-1.0.0-12 /Users/praveen.kumar1/.gradle/caches/transforms-3/5c0c956c2921612c48ddb0ad0a938eec/transformed/startup-runtime-1.0.0/res
+com.example.mysongdb.app-lifecycle-process-2.4.0-13 /Users/praveen.kumar1/.gradle/caches/transforms-3/620c2ce273a2983a153e0be7c5fd4536/transformed/lifecycle-process-2.4.0/res
+com.example.mysongdb.app-core-1.7.0-14 /Users/praveen.kumar1/.gradle/caches/transforms-3/6526c66ebe8d98a69bd2c5ab79d56435/transformed/core-1.7.0/res
+com.example.mysongdb.app-activity-compose-1.3.1-15 /Users/praveen.kumar1/.gradle/caches/transforms-3/6cdc5c590dab18e87bfa99a8bea9fa3f/transformed/activity-compose-1.3.1/res
+com.example.mysongdb.app-annotation-experimental-1.1.0-16 /Users/praveen.kumar1/.gradle/caches/transforms-3/6f67a803afd586f72f3c1d67464c9502/transformed/annotation-experimental-1.1.0/res
+com.example.mysongdb.app-animation-core-1.1.1-17 /Users/praveen.kumar1/.gradle/caches/transforms-3/7699fa0918e9bff785ed0747900497d1/transformed/animation-core-1.1.1/res
+com.example.mysongdb.app-ui-tooling-preview-1.0.1-18 /Users/praveen.kumar1/.gradle/caches/transforms-3/7d423f4f5d1fe47ffe2072c16cb4a41e/transformed/ui-tooling-preview-1.0.1/res
+com.example.mysongdb.app-recyclerview-1.1.0-19 /Users/praveen.kumar1/.gradle/caches/transforms-3/9c4d2b6821a20c835cb5f43c75606cf1/transformed/recyclerview-1.1.0/res
+com.example.mysongdb.app-foundation-layout-1.1.1-20 /Users/praveen.kumar1/.gradle/caches/transforms-3/a87844c80d7b47c9b5b8dfaa0b5cd191/transformed/foundation-layout-1.1.1/res
+com.example.mysongdb.app-profileinstaller-1.1.0-21 /Users/praveen.kumar1/.gradle/caches/transforms-3/ad8699c02b8b932b8bdc7dd8a353c523/transformed/profileinstaller-1.1.0/res
+com.example.mysongdb.app-cardview-1.0.0-22 /Users/praveen.kumar1/.gradle/caches/transforms-3/b193a25a4b12aa7778fe3328a422c6e9/transformed/cardview-1.0.0/res
+com.example.mysongdb.app-constraintlayout-2.1.4-23 /Users/praveen.kumar1/.gradle/caches/transforms-3/b2c0e71b81f604c70a632c2907358994/transformed/constraintlayout-2.1.4/res
+com.example.mysongdb.app-emoji2-1.0.0-24 /Users/praveen.kumar1/.gradle/caches/transforms-3/b347b8c61d26dd65356ed6f9a0058513/transformed/emoji2-1.0.0/res
+com.example.mysongdb.app-ui-geometry-1.1.1-25 /Users/praveen.kumar1/.gradle/caches/transforms-3/b386be700de647c990986a0dcb2351b0/transformed/ui-geometry-1.1.1/res
+com.example.mysongdb.app-sqlite-2.2.0-alpha01-26 /Users/praveen.kumar1/.gradle/caches/transforms-3/b6f7095e528ff404453a118469f1bcf8/transformed/sqlite-2.2.0-alpha01/res
+com.example.mysongdb.app-lifecycle-runtime-2.4.1-27 /Users/praveen.kumar1/.gradle/caches/transforms-3/b7185c28ba9edec03018d47b0a88c527/transformed/lifecycle-runtime-2.4.1/res
+com.example.mysongdb.app-ui-tooling-1.0.1-28 /Users/praveen.kumar1/.gradle/caches/transforms-3/b83559589afd56fc275fb991a0c64a17/transformed/ui-tooling-1.0.1/res
+com.example.mysongdb.app-lifecycle-viewmodel-2.4.0-29 /Users/praveen.kumar1/.gradle/caches/transforms-3/b9241dec43cca33bf05e5cccf345237a/transformed/lifecycle-viewmodel-2.4.0/res
+com.example.mysongdb.app-runtime-1.1.1-30 /Users/praveen.kumar1/.gradle/caches/transforms-3/bcab7160f9eeacef14a92ae27e463b17/transformed/runtime-1.1.1/res
+com.example.mysongdb.app-material-ripple-1.0.1-31 /Users/praveen.kumar1/.gradle/caches/transforms-3/bf014daf2513ce9fae64b47f2f588d33/transformed/material-ripple-1.0.1/res
+com.example.mysongdb.app-ui-util-1.1.1-32 /Users/praveen.kumar1/.gradle/caches/transforms-3/c4e056b24ac4c6023c20a2ceeb77b214/transformed/ui-util-1.1.1/res
+com.example.mysongdb.app-viewpager2-1.0.0-33 /Users/praveen.kumar1/.gradle/caches/transforms-3/c52edfa50762289eb9ed6ae324b82a61/transformed/viewpager2-1.0.0/res
+com.example.mysongdb.app-savedstate-1.1.0-34 /Users/praveen.kumar1/.gradle/caches/transforms-3/c56998fcbd5dbe7b51f23545c3ce6072/transformed/savedstate-1.1.0/res
+com.example.mysongdb.app-fragment-1.3.6-35 /Users/praveen.kumar1/.gradle/caches/transforms-3/c7c5cf10a54af5de2c010808b7743324/transformed/fragment-1.3.6/res
+com.example.mysongdb.app-activity-1.4.0-36 /Users/praveen.kumar1/.gradle/caches/transforms-3/c9cd170ad19d5e906de3b6a8e1a42550/transformed/activity-1.4.0/res
+com.example.mysongdb.app-material-1.6.0-37 /Users/praveen.kumar1/.gradle/caches/transforms-3/cedc5a6f88a33c9427d17edb532373e9/transformed/material-1.6.0/res
+com.example.mysongdb.app-ui-text-1.1.1-38 /Users/praveen.kumar1/.gradle/caches/transforms-3/d05c146f2b7e7c6a3b3b4bc47375012a/transformed/ui-text-1.1.1/res
+com.example.mysongdb.app-lifecycle-runtime-ktx-2.4.0-39 /Users/praveen.kumar1/.gradle/caches/transforms-3/d71d24f21d68771ea8dd80fb341e0abc/transformed/lifecycle-runtime-ktx-2.4.0/res
+com.example.mysongdb.app-coil-base-2.1.0-40 /Users/praveen.kumar1/.gradle/caches/transforms-3/df8e46be468c1b4189a71317c48f6449/transformed/coil-base-2.1.0/res
+com.example.mysongdb.app-ui-tooling-data-1.0.1-41 /Users/praveen.kumar1/.gradle/caches/transforms-3/df981ea9a5aee0fa8b5f56e21ec6bba2/transformed/ui-tooling-data-1.0.1/res
+com.example.mysongdb.app-foundation-1.1.1-42 /Users/praveen.kumar1/.gradle/caches/transforms-3/e40ef9bb3cdad3d92719320ef92e9b4f/transformed/foundation-1.1.1/res
+com.example.mysongdb.app-lifecycle-viewmodel-compose-2.4.0-43 /Users/praveen.kumar1/.gradle/caches/transforms-3/e586f5ed76ab921e31da24985e9000e0/transformed/lifecycle-viewmodel-compose-2.4.0/res
+com.example.mysongdb.app-play-services-basement-16.0.1-44 /Users/praveen.kumar1/.gradle/caches/transforms-3/e629eb2be2db02283130b8c4e711fa94/transformed/play-services-basement-16.0.1/res
+com.example.mysongdb.app-ui-unit-1.1.1-45 /Users/praveen.kumar1/.gradle/caches/transforms-3/eaca9172398f992647a7326431eeaff0/transformed/ui-unit-1.1.1/res
+com.example.mysongdb.app-lifecycle-viewmodel-ktx-2.4.0-46 /Users/praveen.kumar1/.gradle/caches/transforms-3/ebaa157db7f1c17b109c68c596e016f1/transformed/lifecycle-viewmodel-ktx-2.4.0/res
+com.example.mysongdb.app-appcompat-resources-1.4.1-47 /Users/praveen.kumar1/.gradle/caches/transforms-3/ef52ff3a0cf3babe5b03460e13dc2e2c/transformed/appcompat-resources-1.4.1/res
+com.example.mysongdb.app-transition-1.2.0-48 /Users/praveen.kumar1/.gradle/caches/transforms-3/f1ddd73cdedf8242350df8dbec358209/transformed/transition-1.2.0/res
+com.example.mysongdb.app-appcompat-1.4.1-49 /Users/praveen.kumar1/.gradle/caches/transforms-3/f3f91acaec814215cce9ce4e60161301/transformed/appcompat-1.4.1/res
+com.example.mysongdb.app-ui-test-manifest-1.0.1-50 /Users/praveen.kumar1/.gradle/caches/transforms-3/f62abf92ca775288ca1f0c4751cf72df/transformed/ui-test-manifest-1.0.1/res
+com.example.mysongdb.app-drawerlayout-1.1.1-51 /Users/praveen.kumar1/.gradle/caches/transforms-3/f980bc162fdedcddf8d7a5b566f93ab7/transformed/drawerlayout-1.1.1/res
+com.example.mysongdb.app-resValues-52 /Users/praveen.kumar1/Downloads/MySongDb 2/app/build/generated/res/resValues/debug
+com.example.mysongdb.app-rs-53 /Users/praveen.kumar1/Downloads/MySongDb 2/app/build/generated/res/rs/debug
+com.example.mysongdb.app-packageDebugResources-54 /Users/praveen.kumar1/Downloads/MySongDb 2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.mysongdb.app-packageDebugResources-55 /Users/praveen.kumar1/Downloads/MySongDb 2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.mysongdb.app-merged_res-56 /Users/praveen.kumar1/Downloads/MySongDb 2/app/build/intermediates/merged_res/debug
+com.example.mysongdb.app-debug-57 /Users/praveen.kumar1/Downloads/MySongDb 2/app/src/debug/res
+com.example.mysongdb.app-main-58 /Users/praveen.kumar1/Downloads/MySongDb 2/app/src/main/res

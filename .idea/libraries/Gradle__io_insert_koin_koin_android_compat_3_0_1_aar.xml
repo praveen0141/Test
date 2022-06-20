@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: io.insert-koin:koin-android-compat:3.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a654b7375016f30bb58672875ab500f3/transformed/koin-android-compat-3.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e335fde9c945295b2dc72b49d305f457/transformed/koin-android-compat-3.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a1677f828979ca3540ac69f481b86fad/transformed/koin-android-compat-3.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a1677f828979ca3540ac69f481b86fad/transformed/koin-android-compat-3.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a1677f828979ca3540ac69f481b86fad/transformed/koin-android-compat-3.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.insert-koin/koin-android-compat/3.0.1/edb8bdfa6bae526c68eb2cebda5ed880b238b976/koin-android-compat-3.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.insert-koin/koin-android-compat/3.0.1/f9bd014622cf75b0a24fb7d7c813ec66c4cbb3b6/koin-android-compat-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
